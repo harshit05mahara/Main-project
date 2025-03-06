@@ -1,2 +1,2 @@
 # Main-project
-hand recogniser face detection machine
+Hand Gesture Drawing Board
